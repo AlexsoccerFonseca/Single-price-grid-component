@@ -11,6 +11,9 @@
     padding: 0;
     box-sizing: border-box;
   }
+footer{
+    width:90%;
+}
 
 :root{
 --Cyan: hsl(179, 62%, 43%);
